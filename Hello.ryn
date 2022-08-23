@@ -1,0 +1,9 @@
+PRINT "hello"
+VAR foo = 10
+IF 10.5 > 0 {
+PRINT "Yes"
+}
+ELSE {
+PRINT "No"
+}
+PRINT "END"

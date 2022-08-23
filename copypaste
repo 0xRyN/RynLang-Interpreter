@@ -1,0 +1,2 @@
+let lexing = Lib.Lexer.lex "./Print.ryn"
+let parsing = Lib.Parser.parse lexing;;

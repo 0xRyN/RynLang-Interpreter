@@ -1,0 +1,4 @@
+(executable
+ (public_name RynLang-Interpreter)
+ (name main)
+ (libraries Lib Str))
